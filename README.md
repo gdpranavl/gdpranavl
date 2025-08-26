@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I’m Sumukha  
 
-<!--
-**gdpranavl/gdpranavl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ My branch runs on espresso.  
+🐛 Debugging is my cardio.  
+🚀 Currently breaking things until they work.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Quick Bits
+- 🔭 Working on: AR/VR, AI, and random hacks  
+- 💬 Ask me about: C++, Python, React, ESP32, VR stuff  
+- 🛠 Fun fact: My TODO list has a TODO list  
+
+---
+
+### 🎯 Contribution Snake 🐍
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
